@@ -1,0 +1,49 @@
+old vers/
+
+
+
+/*int main()
+{
+    printf("Enter letter to count:\n");
+    char letter;
+    if((scanf("%c", &letter) != 1)) return 1;
+    if (((int)letter > (int)"a") && ((int)letter < (int)"z"))
+        letter = (int)letter - (int)'a' + (int)'A';
+    else
+        if (!((letter > (int)'A') && (letter < (char)"Z"))) return 1;
+    printf("Enter the char sequence:\n");
+    int count = 0;
+    char i = 0;
+    while (i != (char)"$")
+    {
+        scanf("%c", &i);
+        if (i == letter || i == (letter - (char)'A' + (char)'a')) count++; // TODO function that will return bouth uper and lower letters
+    }
+    printf("The letter appeared %d times\n", count);
+    return 0;
+}
+
+#define L_A ((int)'a')
+#define L_Z ((int)'z')
+#define U_A ((int)'A')
+#define U_Z ((int)'Z')
+
+int main()
+ {
+    printf("Enter letter to count:\n");
+    char letter = 0;
+    if (scanf("%c", &letter) != 1) return 1;
+    if ((letter > L_A) && (letter < L_Z))
+        letter = (letter - L_A) + U_A;
+    else if (!((letter > U_A) && (letter < U_Z)))
+        return 1;
+    printf("Enter the char sequence:\n");
+    int count = 0, i = 0;
+    while (i != (int)"$")
+    {
+        scanf("%c", &i);
+        if (i == letter || i == (letter - U_A + L_A)) count++; // TODO function that will return bouth uper and lower letters
+    }
+    printf("The letter appeared %d times\n", count);
+    return 0;
+}*/
