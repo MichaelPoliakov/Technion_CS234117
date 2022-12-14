@@ -1,0 +1,3 @@
+Number of digits received: 0
+Number of letters received: 0
+Number of spaces received: 0

@@ -1,0 +1,12 @@
+Assignments - Electronic Submit - HW3 - Michael
+Your assignment has been successfully submitted.
+Transaction summary:
+Date:	3/6/2021, 00:47:52
+Assignment:	HW3
+Course:	234114 (Introduction to Computer Science)
+Semester:	Spring 2021
+Submitted by:	315940791
+File name:	hw3.zip
+File size:	2,431B
+
+Confirmation code:	234114-202002-315940791-2730904
